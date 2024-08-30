@@ -1,3 +1,16 @@
+# AVR Makefile
+#
+# Written by Yaswanth Raj R Y (https://github.com/YaswanthRajRY)
+
+# Targets:
+#		
+#		all: Compile all the file
+#		
+#		flash: flash the program code to MCU
+#
+#		clean: remove all the .o .hex .elf files
+#		
+
 # Micro-controller name
 MCU=atmega328p
 MCU2=ATMEGA328P
